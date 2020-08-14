@@ -19,7 +19,7 @@ let unde = undefined;
 const DNI = 43902208;
 
 
-//console.log(numero,nombre,DNI);
+// console.log(numero,nombre,DNI);
 
 
 //Declarar 3 variables y una constante que van hacer referencia al nombre,apellido, edad y DNI de una persona y luego las van a mostrar por consola.
